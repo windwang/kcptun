@@ -62,6 +62,16 @@ DSCP差分服务代码点（Differentiated Services Code Point），IETF于1998�
 
 通过```-datashard 10 -parityshard 3``` 可以调整Reed Solomon参数。
 
+### *Snappy数据流压缩* :lollipop: 
+> Snappy is a compression/decompression library. It does not aim for maximum
+> compression, or compatibility with any other compression library; instead,
+> it aims for very high speeds and reasonable compression. For instance,
+> compared to the fastest mode of zlib, Snappy is an order of magnitude faster
+> for most inputs, but the resulting compressed files are anywhere from 20% to
+> 100% bigger.
+
+Reference: http://google.github.io/snappy/
+
 ### *SNMP* :lollipop:
 ```go
 // Snmp defines network statistics indicator
