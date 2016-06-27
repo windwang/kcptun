@@ -9,7 +9,7 @@
 [7]: https://coveralls.io/repos/github/xtaci/kcptun/badge.svg?branch=master
 [8]: https://coveralls.io/github/xtaci/kcptun?branch=master
 
-TCP流转换为KCP+UDP流，:zap:***[下载地址](https://github.com/xtaci/kcptun/releases/latest)***:zap:工作示意图：  
+TCP流转换为KCP+UDP流，:zap:***[官方下载地址](https://github.com/xtaci/kcptun/releases/latest)***:zap:工作示意图：  
 
 ![kcptun](kcptun.png)
 
